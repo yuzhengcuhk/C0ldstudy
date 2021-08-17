@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Adversarial Mahcine Learning and Data-driven Security.
+- 🔭 I’m currently working on Adversarial Machine Learning and Data-driven Security.
 
 <!--
 **C0ldstudy/C0ldstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
