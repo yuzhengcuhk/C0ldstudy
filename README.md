@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Adversarial Mahcine Learning and Data-driven Security.
+
 <!--
 **C0ldstudy/C0ldstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![C0ldstudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0ldstudy&show_icons=true&theme=dracula)
+
