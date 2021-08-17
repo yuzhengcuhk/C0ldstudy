@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![C0ldstudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0ldstudy&show_icons=true&theme=dracula)
+![C0ldstudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0ldstudy&count_private=true&show_icons=true&theme=dracula)
 
