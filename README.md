@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 🔭 I’m a PhD student@CUHK.
+- 🔭 I’m a PhD student@CUHK. I am working on privacy-preserving deep learning and searchable encryption.  
 
 <!--
 **C0ldstudy/C0ldstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
