@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 - 🔭 I’m a PhD student@CUHK.
 
