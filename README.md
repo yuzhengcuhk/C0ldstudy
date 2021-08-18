@@ -1,6 +1,7 @@
 ### Hey 👋
 
-- 🔭 I’m a PhD student@CUHK. I am working on privacy-preserving deep learning and searchable encryption.  
+- 🔭 I’m a PhD student@CUHK. I am working on privacy-preserving deep learning and searchable encryption. 
+- 💬 I am interested in cryptography, mathematics, and sports. 
 
 <!--
 **C0ldstudy/C0ldstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![C0ldstudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=dracula)
+![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=dracula)
 
