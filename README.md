@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 🔭 I’m a PhD student@CUHK. I am working on privacy-preserving deep learning and searchable encryption. 
+- 🔭 I’m a PhD candidate@CUHK. I am working on privacy-preserving deep learning and searchable encryption. 
 - 💬 I am interested in cryptography, mathematics, and sports. 
 
 <!--
