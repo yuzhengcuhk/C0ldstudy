@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Adversarial Machine Learning and Data-driven Security.
+- 🔭 I’m a PhD student@CUHK.
 
 <!--
 **C0ldstudy/C0ldstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![C0ldstudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0ldstudy&count_private=true&show_icons=true&theme=dracula)
+![C0ldstudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=dracula)
 
