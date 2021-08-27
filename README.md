@@ -4,7 +4,7 @@
 - 💬 I am interested in cryptography, mathematics, and sports. 
 
 <!--
-**C0ldstudy/C0ldstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuzhengcuhk/yuzhengcuhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
