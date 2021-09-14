@@ -4,7 +4,7 @@
 - 💬 I am interested in cryptography, mathematics, and sports. 
 
 - ～业精于勤荒于嬉, 行成于思毁于随～ 
-- ～以责人之心责己, 以恕己之心恕人. 惟贤惟德, 能服于人～
+- ～惟贤惟德, 能服于人～
 
 <!--
 **yuzhengcuhk/yuzhengcuhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
