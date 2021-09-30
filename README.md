@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=dracula)
+![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=buefy)
 
