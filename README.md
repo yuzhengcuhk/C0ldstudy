@@ -1,7 +1,7 @@
 ### Hey, guys 👋
 
 - 💬 I’m a PhD candidate@CUHK. I am working on privacy-preserving deep learning and searchable encryption. 
-- 💬 I am interested in cryptography, mathematics, and sports. 
+- 💬 I am interested in cryptography, mathematics, reading, and sports. 
 
 <!--
 **yuzhengcuhk/yuzhengcuhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
