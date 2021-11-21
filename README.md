@@ -2,6 +2,7 @@
 
 - 💬 I’m a PhD candidate@CUHK. I am working on privacy-preserving deep learning and searchable encryption. 
 - 💬 I am interested in cryptography, mathematics, reading, and sports. 
+- 💬 业精于勤荒于嬉, 行成于思毁于随.
 
 ![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=buefy)
 <!--
