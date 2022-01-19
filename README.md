@@ -4,7 +4,7 @@
 - 💬 I am interested in cryptography, mathematics, reading, and sports. 
 - 💬 業精於勤荒於嬉,行成於思毀於隨. 
 - 💬 上善若水,水善利萬物而不爭. 
-- 💬 嚴以律己,寬以待人.
+- 💬 躬自厚而薄責於人.
 
 ![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=buefy)
 <!--
