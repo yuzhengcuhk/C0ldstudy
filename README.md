@@ -1,7 +1,7 @@
 ### Hey, guys 👋
 
 - 💬 I’m a PhD candidate@CUHK. I am working on privacy-preserving deep learning and searchable encryption. 
-- 💬 I am interested in cryptography, mathematics, reading, and sports. 
+- 💬 I am interested in cryptography, mathematics, algorithms, reading, and sports. 
 - 💬 業精於勤荒於嬉,行成於思毀於隨. 
 - 💬 上善若水,水善利萬物而不爭. 
 - 💬 躬自厚而薄責於人.
