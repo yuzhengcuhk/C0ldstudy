@@ -2,7 +2,7 @@
 
 - 💬 I’m a PhD candidate@CUHK. I am working on privacy-preserving deep learning and searchable encryption. 
 - 💬 I am interested in cryptography, mathematics, algorithms, reading, and sports. 
-- 💬 I am happy to build open-source libraries for helping the community. 
+- 😄 I am happy to build open-source libraries for helping the community. 
 - 😄 If you are interested, welcome to contact me ~
 
 <!--
