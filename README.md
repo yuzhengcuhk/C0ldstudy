@@ -5,7 +5,7 @@
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
 - 😄 If you are interested, welcome to contact me ~
 
-[Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ) | [Homepage]()
+<p color=b46cff> [Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ) | [Homepage]()</p>
 <!--
 ![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=buefy)
 **yuzhengcuhk/yuzhengcuhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
