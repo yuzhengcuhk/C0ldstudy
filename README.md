@@ -1,7 +1,7 @@
 ### Hey, guys 👋
 
 - 💬 I’m a PhD candidate@CUHK. I am working on privacy-preserving machine learning. 
-- 💬 I am interested in cryptography, mathematics, algorithms, reading, and sports. 
+- 💬 I am interested in cryptography, mathematics, algorithms, reading, and sports; also curious about new knowledge/things (Ambiguous in INTP-A/INTJ-A💬). 
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
 - 😄 If you are interested, welcome to contact me ~
 
