@@ -6,7 +6,7 @@
 - 🔭 I am curious about new knowledge (Ambiguous in INTP-A/INTJ-A💬). 
 - 😄 If you are interested in my work, welcome to contact me ~
 
-<font color="DarkOrchid"> [Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ) | [Homepage](https://yuzhengcuhk.github.io) | [Twitter](https://twitter.com/YuZheng0404) [Linkedin](https://www.linkedin.com/in/yu-zheng-janeyew/)</font>
+<font color="DarkOrchid"> [Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ) | [Homepage](https://yuzhengcuhk.github.io) | [Twitter](https://twitter.com/YuZheng0404) | [Linkedin](https://www.linkedin.com/in/yu-zheng-janeyew/)</font>
 <!--
 ![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=buefy)
 **yuzhengcuhk/yuzhengcuhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
