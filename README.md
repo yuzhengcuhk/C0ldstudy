@@ -4,9 +4,9 @@
 - 💬 I am interested in cryptography, mathematics, algorithms, reading, and sports.
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
 - 🔭 I am curious about new knowledge (Ambiguous in INTP-A/INTJ-A💬). 
-- 😄 If you are interested, welcome to contact me ~
+- 😄 If you are interested in my work, welcome to contact me ~
 
-<font color="DarkOrchid"> [Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ) | [Homepage](https://yuzhengcuhk.github.io) | [Twitter](https://twitter.com/YuZheng0404) </font>
+<font color="DarkOrchid"> [Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ) | [Homepage](https://yuzhengcuhk.github.io) | [Twitter](https://twitter.com/YuZheng0404) [Linkedin](https://www.linkedin.com/in/yu-zheng-janeyew/)</font>
 <!--
 ![yuzhengcuhk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhengcuhk&count_private=true&show_icons=true&theme=buefy)
 **yuzhengcuhk/yuzhengcuhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
