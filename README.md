@@ -4,7 +4,7 @@
 - 💬 I am interested in cryptography, mathematics, algorithms, reading, and sports.
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
 - 🔭 I am curious about new knowledge (Ambiguous in INTP-A/INTJ-A💬). 
-- 😄 If you are interested in my work, welcome to contact me ~
+- 😄 If you are interested in my research, welcome to contact me ~
 
 <font color="DarkOrchid"> [CV](https://drive.google.com/file/d/1VSofXpVwdTBBe1J8gv8pjcmHcdl_lP2T/view?usp=sharing) | [Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ) | [Twitter](https://twitter.com/YuZheng0404) | [Linkedin](https://www.linkedin.com/in/yu-zheng-janeyew/)</font>
 <!--
