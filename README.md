@@ -1,7 +1,7 @@
 ### Hey, guys 👋
 
 - 💬 I’m a PhD candidate@CUHK. I am working on data protection. 
-- 💬 I am interested in cryptography, mathematics, algorithms, reading, and sports.
+- 💬 I am interested in privacy, mathematics, algorithms, reading, and sports.
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
 - 🔭 I am curious about new knowledge (Ambiguous in INTP-A/INTJ-A💬). 
 - 😄 If you are interested in my research, welcome to contact me ~
