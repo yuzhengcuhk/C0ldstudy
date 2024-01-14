@@ -1,4 +1,4 @@
-### Hey, guys 👋
+### Hey, hey, hey 👋
 
 - 💬 I’m a PhD candidate@CUHK. I am working on data protection. 
 - 💬 I am interested in privacy, mathematics, algorithms, reading, and sports.
