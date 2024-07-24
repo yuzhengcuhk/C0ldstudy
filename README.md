@@ -1,7 +1,6 @@
 ### Hey, hey, hey 👋
 
-- 💬 I will join DSP Lab @UC Irvine as a postdoctoral researcher. See you in California~
-- 💬 I am interested in data privacy, mathematics, algorithms, reading, and sports.
+- 💬 I am interested in data protection, mathematics, algorithms, reading, and sports.
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
 - 🔭 I am curious about new knowledge (Ambiguous in INTP-A/INTJ-A💬). 
 - 😄 If you are interested in my research, welcome to contact me ~
