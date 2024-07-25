@@ -1,6 +1,6 @@
 ### Hey, hey, hey 👋
 
-- 💬 I am interested in data protection, medical privacy, reading, and sports.
+- 💬 I am interested in data protection, reading, and sports.
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
 - 🔭 I am curious about new knowledge (Ambiguous in INTP-A/INTJ-A💬). 
 
